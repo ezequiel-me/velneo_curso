@@ -12,7 +12,7 @@ Velneo **cuenta con plantillas de aplicaciones** que pueden ser personalizadas p
 
 ## Componentes de Velneo
 ### 1 - vDevelop 
-**Este módulo que nos permite desarrollar aplicaciones. Con vDevelop se puede crear o abrir:** 
+**Este módulo nos permite desarrollar aplicaciones. Con vDevelop se puede crear o abrir:** 
 - **Soluciones:** es una carpeta física en el servidor en la que podremos guardar **proyectos**. 
 - **Proyectos:** existen dos tipos de proyectos.
   - **De Datos:** en este proyecto **se define la BD**, **mediante objetos (tablas, variables, procesos, etc)** que nos permitirán establecer el funcionamiento de nuestra BD.
