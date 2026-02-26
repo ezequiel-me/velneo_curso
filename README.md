@@ -10,9 +10,22 @@ Plataforma de desarrollo **low-code** enfocada en facilitar la creación de apps
 ## Aplicaciones y Plantillas Predefinidas
 Velneo **cuenta con plantillas de aplicaciones** que pueden ser personalizadas para adaptarse a las **necesidades del negocio**.
 
+## Conceptos Básicos
+- **Ficha o registro:** es una **fila** (con un conjunto de datos) **en una tabla** de la BD.
+- **Lista De Fichas o Registros:** es una **colección de fichas** que han sido **extraidas de la DB**. Con las **herramientas** de Velneo podremos **ordenar, filtrar o manipular** las listas.
+  - 
+- **Ficha o registro:**
+- **Ficha o registro:**
+
 ## Componentes de Velneo
 ### 1 - vDevelop 
 **Este módulo nos permite desarrollar aplicaciones.**
+
+#### Interfaz - Velneo vDevelop
+**Cuando se accede a vDevelop, la interfaz que se muestra es la siguiente:**
+*Agregar Imagen Interfaz vDevelop + Explicación De Las Distintas Secciones*
+**1. Panel Central:**
+
 #### Soluciones Y Proyectos 
 **vDevelop nos permite abrir o crear:**
 - **Soluciones:** es una carpeta física en el servidor en la que podremos guardar **proyectos**. 
@@ -25,3 +38,6 @@ Velneo **cuenta con plantillas de aplicaciones** que pueden ser personalizadas p
 - **Control de versiones:** accediendo a las **propiedades de un proyecto**, se puede saber la **fecha y hora** en la que ha sido **guardado por ultima vez** y el **número de veces que se ha guardado**. También **existe un historial de versiones**, disponible desde el **módulo "vVersion."**
 - **Edición de proyectos:**
 - **Copia de seguridad automática:** al **guardar un proyecto**, Velneo **guarda en el directorio de la solución una copia del estado previo del proyecto guardado con extensión .bak**
+
+#### Herencia En Velneo
+
