@@ -12,7 +12,7 @@ Velneo **cuenta con plantillas de aplicaciones** que pueden ser personalizadas p
 
 ## Conceptos Básicos
 - **Ficha o registro:** es una **fila** (con un conjunto de datos) **en una tabla** de la BD.
-- **Lista De Fichas o Registros:** es una **colección de fichas** que han sido **extraidas de la DB**. Con las **herramientas** de Velneo podremos **ordenar, filtrar o manipular** las listas.
+**Lista De Fichas o Registros:** es una **colección de fichas** que han sido **extraidas de la DB**. Con las **herramientas** de Velneo podremos **ordenar, filtrar o manipular** las listas.
   - 
 - **Ficha o registro:**
 - **Ficha o registro:**
