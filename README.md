@@ -13,7 +13,9 @@ Velneo **cuenta con plantillas de aplicaciones** que pueden ser personalizadas p
 ## Conceptos Básicos
 - **Ficha o registro:** es una **fila** (con un conjunto de datos) **en una tabla** de la BD.
 - **Lista De Fichas o Registros:** es una **colección de fichas** que han sido **extraidas de la DB**. Con las **herramientas** de Velneo podremos **ordenar, filtrar o manipular** las listas. 
-
+- **Objeto en Velneo:** es un **elemento definible** dentro de un proyecto. Los objetos nos ayudan a definir toda nuestra BD y el interfaz de la aplicación. Un objeto puede ser único o estar compuesto de sub-objetos.
+  - **Ejemplo**: **Objeto_1 (Tabla De BD)** y **sub_objeto_1 (Primer Campo Tabla BD).**
+- **Esquema De Tablas:** tipo de objeto que es **capaz de crear o mostrar la estructura de las tablas** del proyecto y **crear enlaces entre las mismas**... *Meter más explicación...*
 ## Componentes de Velneo
 ### 1 - vDevelop 
 **Este módulo nos permite desarrollar aplicaciones.**
@@ -36,5 +38,5 @@ Velneo **cuenta con plantillas de aplicaciones** que pueden ser personalizadas p
 - **Edición de proyectos:**
 - **Copia de seguridad automática:** al **guardar un proyecto**, Velneo **guarda en el directorio de la solución una copia del estado previo del proyecto guardado con extensión .bak**
 
-#### Herencia En Velneo
+
 
